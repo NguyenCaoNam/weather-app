@@ -1,0 +1,15 @@
+.weather {
+    width: 393px;
+    margin: 100px auto;
+}
+
+.weather-wrapper {
+    background-image: url('./../../assets/images/bg-weather.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 0 16px;
+    padding-bottom: 42px;
+    border-radius: 24px;
+    width: 100%;
+}

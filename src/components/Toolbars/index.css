@@ -1,0 +1,24 @@
+.toolbar-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.toolbar-left {
+    display: flex;
+    width: 100px;
+    padding: 18.34px 0px 13.66px 0px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.toolbar-left .time {
+    color: #fff;
+    text-align: center;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 590;
+    line-height: 22px; /* 129.412% */
+}
